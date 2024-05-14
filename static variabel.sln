@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Constructor", "Constructor\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Destruktor", "Destruktor\Destruktor.vcxproj", "{3E3AC562-0C3B-4FE2-A7F8-034F09199076}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "chainfunction", "chainfunction\chainfunction.vcxproj", "{528D5445-18C0-434E-A3AB-18F59928338F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{3E3AC562-0C3B-4FE2-A7F8-034F09199076}.Release|x64.Build.0 = Release|x64
 		{3E3AC562-0C3B-4FE2-A7F8-034F09199076}.Release|x86.ActiveCfg = Release|Win32
 		{3E3AC562-0C3B-4FE2-A7F8-034F09199076}.Release|x86.Build.0 = Release|Win32
+		{528D5445-18C0-434E-A3AB-18F59928338F}.Debug|x64.ActiveCfg = Debug|x64
+		{528D5445-18C0-434E-A3AB-18F59928338F}.Debug|x64.Build.0 = Debug|x64
+		{528D5445-18C0-434E-A3AB-18F59928338F}.Debug|x86.ActiveCfg = Debug|Win32
+		{528D5445-18C0-434E-A3AB-18F59928338F}.Debug|x86.Build.0 = Debug|Win32
+		{528D5445-18C0-434E-A3AB-18F59928338F}.Release|x64.ActiveCfg = Release|x64
+		{528D5445-18C0-434E-A3AB-18F59928338F}.Release|x64.Build.0 = Release|x64
+		{528D5445-18C0-434E-A3AB-18F59928338F}.Release|x86.ActiveCfg = Release|Win32
+		{528D5445-18C0-434E-A3AB-18F59928338F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
