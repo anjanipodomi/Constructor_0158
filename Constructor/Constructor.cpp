@@ -36,27 +36,18 @@ void Mahasiswa::cetak() {
 	cout << "Nama = " << nama << endl;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 int main()
 {
-    
+	Mahasiswa mhs1;
+	Mahasiswa mhs2(20);
+	Mahasiswa mhs3("Anjani");
+	Mahasiswa mhs4(158, "Sari");
+
+	mhs1.cetak();
+	mhs2.cetak();
+	mhs3.cetak();
+	mhs4.cetak();
+	system("Pause");
+
+	return 0;
 }
